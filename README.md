@@ -1,2 +1,2 @@
 # Java-Lab
-Java code
+Java Lab ที่ทำใน Classroom
